@@ -1,0 +1,16 @@
+bin/
+
+
+# Logs and databases #
+######################
+*.log
+
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
