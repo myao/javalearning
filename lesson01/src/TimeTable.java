@@ -17,7 +17,7 @@ public class TimeTable {
 	    	try{
 	    		inputNumber = Integer.parseInt(message);
 	    		System.out.println("Here are the primes:  ");
-	    		int count = 0;
+
 	    		for( int i = 1; i <= inputNumber; i++){
 	    			BuildOneLine(i);
 	    			System.out.println();
